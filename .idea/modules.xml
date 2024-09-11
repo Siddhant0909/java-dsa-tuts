@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-java-basics/01-java-basics.iml" filepath="$PROJECT_DIR$/01-java-basics/01-java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-conditionals-and-loops/02-loops.iml" filepath="$PROJECT_DIR$/02-conditionals-and-loops/02-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-switch-cases/03-switch-cases.iml" filepath="$PROJECT_DIR$/03-switch-cases/03-switch-cases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-functions/04-functions.iml" filepath="$PROJECT_DIR$/04-functions/04-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-array-and-arraylist/05-array-and-arraylist.iml" filepath="$PROJECT_DIR$/05-array-and-arraylist/05-array-and-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-linear-search/06-binary-search.iml" filepath="$PROJECT_DIR$/06-linear-search/06-binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-binary-search/07-binary-search.iml" filepath="$PROJECT_DIR$/07-binary-search/07-binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-recursion/08-recursion.iml" filepath="$PROJECT_DIR$/08-recursion/08-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-oop/09-oop.iml" filepath="$PROJECT_DIR$/09-oop/09-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+    </modules>
+  </component>
+</project>
