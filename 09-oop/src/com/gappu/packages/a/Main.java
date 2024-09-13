@@ -1,6 +1,6 @@
-package com.gappu.a;
+package com.gappu.packages.a;
 
-import static com.gappu.b.Packages.greeting;
+import com.gappu.inheritance.BlockWeight;
 
 public class Main {
     public static void main(String[] args) {

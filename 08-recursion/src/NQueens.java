@@ -1,6 +1,6 @@
 public class NQueens {
     public static void main(String[] args) {
-        boolean[][] board = new boolean[4][4];
+        boolean[][] board = new boolean[5][5];
         System.out.println(queen(board, 0));
     }
 
@@ -29,13 +29,13 @@ public class NQueens {
             }
         }
 
-        int maxLeft = Math.min(row, col);
-        for (int i = 1; i <= maxLeft; i++) {
+//        int maxLeft = Math.min(row, col);
+        for (int i = 1; row - i >= 0 && col - i >= 0; i++) {
             if (board[row - i][col - i]) return false;
         }
 
-        int maxRight = Math.min(row, board.length - col - 1);
-        for (int i = 1; i <= maxRight; i++) {
+//        int maxRight = Math.min(row, board.length - col - 1);
+        for (int i = 1; row - i >= 0 && col + i < board.length; i++) {
             if (board[row - i][col + i]) return false;
         }
         return true;

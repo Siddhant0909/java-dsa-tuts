@@ -1,4 +1,4 @@
-package com.gappu.b;
+package com.gappu.packages.b;
 
 
 public class Packages {
